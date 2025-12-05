@@ -5,6 +5,7 @@
     <code>React</code>
   </p>
   <p>
-    <b>Backend:</b> <code>Node.js</code>
+    <b>Backend:</b>
+    <code>Node.js</code>
   </p>
 </div>
